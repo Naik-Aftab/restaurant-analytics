@@ -20,4 +20,5 @@ This project consists of:
 2. npm install
 3. npm run dev
 - The Frontend will be running at: http://127.0.0.1:3000
+- `Deployed the frontend on vercel https://restaurant-analytics-iota.vercel.app/ `
 
