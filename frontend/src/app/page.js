@@ -103,7 +103,7 @@ export default function App() {
                   setPage(1);
                 }}
                 placeholder="Search restaurants..."
-                className="w-full pl-10 pr-10 p-3 bg-white border rounded-xl shadow-sm focus:ring-2 outline-none"
+                className="w-full pl-10 pr-10 p-3 bg-white dark:bg-gray-800 border rounded-xl shadow-sm focus:ring-2 outline-none"
               />
 
               {query && (
