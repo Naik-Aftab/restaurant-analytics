@@ -3,7 +3,7 @@
 This project consists of:  
 - **Frontend**: Next.js  
 - **Backend**: Laravel  
-- Both require their own `.env` configuration files.
+- `Both have already .env files.`
 
 ##  Backend (Laravel) Setup
 
